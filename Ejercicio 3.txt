@@ -6,21 +6,25 @@ El diagrama debe decidir cuál es el mayor y cuál es el menor.
 Programa: MayorYMenor
 
 Entorno:
-A, B, C, MAYOR son números enteros
+A, B, C, MAYOR, MENOR son números enteros
 
 Algoritmo:
 escrbir "Introduzca los tres numeros:"
 leer A, B, C
 
-SI A>B entonces
+SI A>B entonces:
     SI A>C entonces A es el MAYOR
+    SI B<C entonces B es el MENOR
 
-SI B>C entonces
+SI B>C entonces:
     SI B>A entonces B es el MAYOR
+    SI C<A entonces C es el MENOR
+SI NO:
+    C es el MAYOR
+    A es el MENOR
 
-SI NO C es el MAYOR
-
-Escribir el MAYOR
+Escribir "El número MAYOR es mayor."
+Escribir "El número MENOR es menor."
 
 FinPrograma
 
