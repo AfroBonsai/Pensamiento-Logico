@@ -1,12 +1,10 @@
+
 # Pensamiento-Logico
+
 
 Grupo de trabajo 3:
 
-Aida
-
-Raul
-
-George
+Aida, George, Raul
 
 
 Ejercicios a realizar:

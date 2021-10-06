@@ -1,33 +1,26 @@
 
-Enunciado:
-Modificar el anterior para que permita sumar N números. El valor de N se debe
-leer previamente por teclado.
-
 Ejercicio 5:
- Realiza el pseudocódigo de un programa que sume 10 números leídos por
-teclado.
+    Realiza el pseudocódigo de un programa que sume 10 números leídos por teclado.
+Ejercicio 6:
+    Modificar el anterior para que permita sumar N números. El valor de N se debe leer previamente por teclado.
 
 
-Programa: ejercicio6
+Programa: Ejercicio5
 
 Entorno:
 A, B, C, D, E, F, G, H, I, J, K, SUMA, RESULTADO
 
 Algoritmo:
 
-leer A, B, C
-escrbir "Introduzca los 10 numeros:"
-leer A, B, C, D, E, F, G, H, I, J, K
-Calcula SUMA=  A+B+C+D+E+F+G+H+I+J+K 
+Escribir "Introduzca los 10 numeros:"
 
+Leer A, B, C, D, E, F, G, H, I, J, K
 
+Calcular SUMA = A + B + C + D + E + F + G + H + I + J + K 
+
+Escribir: SUMA
 
 FinPrograma
-
-
-
-
-
 
 
 
