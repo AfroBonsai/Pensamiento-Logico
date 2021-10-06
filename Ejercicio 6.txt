@@ -1,0 +1,55 @@
+
+Enunciado:
+Modificar el anterior para que permita sumar N números. El valor de N se debe
+leer previamente por teclado.
+
+Ejercicio 5:
+ Realiza el pseudocódigo de un programa que sume 10 números leídos por
+teclado.
+
+
+Programa: ejercicio6
+
+Entorno:
+A, B, C, D, E, F, G, H, I, J, K, SUMA, RESULTADO
+
+Algoritmo:
+
+leer A, B, C
+escrbir "Introduzca los 10 numeros:"
+leer A, B, C, D, E, F, G, H, I, J, K
+Calcula SUMA=  A+B+C+D+E+F+G+H+I+J+K 
+
+
+
+FinPrograma
+
+
+
+
+
+
+
+
+Programa: ejercicio6
+
+Entorno:
+ SUMA, RESULTADO
+
+Algoritmo:
+
+Pedir al usuario que introdza un valor: "Introduzca los numeros que quieres"
+, se guardaran en una variable llamada N
+leer valor de N
+
+Crear un bucle con la variable N para que añada en una array todos los valores que vemos pidiendo
+
+cuando LA "I" en el bucle sea menor a N
+arrayfinal= n[i]
+
+
+Imprimir arrayfinal
+
+
+
+FinPrograma
